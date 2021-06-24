@@ -1,20 +1,38 @@
-### Hi there 👋
+Hi there, welcome to my repository
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies
+
+<!-- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) -->
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![DjangoRest](https://img.shields.io/badge/-DjangoREST-000?&logo=DjangoREST)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
+
+### Projects
+
+[![](https://img.shields.io/badge/ResnetSTL10-000)](https://github.com/tonmoy50/resnet50withstl10)
+[![](https://img.shields.io/badge/VehicleClassification-000)](https://github.com/tonmoy50/vehicle_classification)
+[![](https://img.shields.io/badge/CovidAssessment-000)](https://github.com/tonmoy50/covid19)
+[![](https://img.shields.io/badge/FacialExpression-000)](https://github.com/tonmoy50/Face-Expression)
+[![](https://img.shields.io/badge/JATSSClawbot-000)](https://github.com/tonmoy50/jatss_clawbot)
+[![](https://img.shields.io/badge/HospitalManagement-000)](https://github.com/tonmoy50/Hospital-Management)
+[![](https://img.shields.io/badge/TransportManagement-000)](https://github.com/tonmoy50/transport_management)
 
 
 
-- 🔭 I’m currently working on Bangla Sign Language Detection and Recognition Using Image Processing
-- 🌱 I’m currently learning Machine Learning twerks and features, Django
-- 👯 I’m looking to collaborate on a Machine Learning Application, Artificial Intelligence projects
-- 🤔 I’m looking for help with Django Rest API
-- 💬 Ask me about Machine Learning, Python, Algorithm
-- 📫 How to reach me: 
-  - linkedin - linkedin.com/in/nilambar-halder-tonmoy-a3b86b144
-  - facebook - https://www.facebook.com/tonmoy50/
-  - Contact - 008801521331008
-<!--
-**tonmoy50/tonmoy50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=tonmoy50&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoy50&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
