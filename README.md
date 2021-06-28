@@ -1,4 +1,9 @@
-Hi there, welcome to my repository
+Hi there, Welcome To My Profile
+
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:tonmoyhalder50@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/tonmoy50/)
+[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/tonmoyhalder)
+[![Facebook Follow](https://img.shields.io/badge/%20-Add-black?color=14171A&labelColor=37474f&logo=facebook&logoColor=4fc3f7)](https://www.facebook.com/tonmoy50/)
 
 ### Languages
 
@@ -24,7 +29,6 @@ Hi there, welcome to my repository
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
-
 ### Projects
 
 [![](https://img.shields.io/badge/ResnetSTL10-000)](https://github.com/tonmoy50/resnet50withstl10)
@@ -34,6 +38,12 @@ Hi there, welcome to my repository
 [![](https://img.shields.io/badge/JATSSClawbot-000)](https://github.com/tonmoy50/jatss_clawbot)
 [![](https://img.shields.io/badge/HospitalManagement-000)](https://github.com/tonmoy50/Hospital-Management)
 [![](https://img.shields.io/badge/TransportManagement-000)](https://github.com/tonmoy50/transport_management)
+
+### Prgramming Language Expertise
+![image](https://user-images.githubusercontent.com/22047627/123590962-3c227e00-d80d-11eb-8ea0-f9efed90b521.png)
+
+### ML and Data Analysis Expertise
+![image](https://user-images.githubusercontent.com/22047627/123591108-63794b00-d80d-11eb-9a94-53951eb2fc26.png)
 
 
 
