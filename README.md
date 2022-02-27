@@ -42,7 +42,11 @@
 [![](https://img.shields.io/badge/TransportManagement-000)](https://github.com/tonmoy50/transport_management)
 
 ### Prgramming Language Expertise
-![image](https://user-images.githubusercontent.com/22047627/123590962-3c227e00-d80d-11eb-8ea0-f9efed90b521.png)
+- Python
+- C/C++
+- Java
+- javascript
+- C#
 
 ### ML and Data Analysis Expertise
 ![image](https://user-images.githubusercontent.com/22047627/123591108-63794b00-d80d-11eb-9a94-53951eb2fc26.png)
