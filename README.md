@@ -49,7 +49,12 @@
 - C#
 
 ### ML and Data Analysis Expertise
-![image](https://user-images.githubusercontent.com/22047627/123591108-63794b00-d80d-11eb-9a94-53951eb2fc26.png)
+
+- Tensorflow
+- Keras
+- Scikit-Learn
+- Pytorch
+- Pandas
 
 ### Github Stat's
 
