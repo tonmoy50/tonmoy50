@@ -60,8 +60,8 @@
 
 | Artificial Intelligence | Computing | Software Engineering | Misc. |
 |-	|-	|- |- |
-| [Data Science](https://github.com/tonmoy50/Data-Science-For-Beginners) | [Coding Problems](https://github.com/tonmoy50/Problem-Solutions) | [Git](https://github.com/tonmoy50/gitCommands) |
-| [AWS ML Cloud Camp](https://github.com/tonmoy50/AWS-ML-With-Cloud-Camp) |  | [Cloud DevOps](https://github.com/tonmoy50/Cloud-DevOps) | [Ego4d](https://github.com/tonmoy50/ego4d) |
+| [Data Science](https://github.com/tonmoy50/Data-Science-For-Beginners) | [Coding Problems](https://github.com/tonmoy50/Problem-Solutions) | [Git](https://github.com/tonmoy50/gitCommands) | [Ego4d](https://github.com/tonmoy50/ego4d) |
+| [AWS ML Cloud Camp](https://github.com/tonmoy50/AWS-ML-With-Cloud-Camp) |  | [Cloud DevOps](https://github.com/tonmoy50/Cloud-DevOps) | |
 
 ### Github Stat's
 
