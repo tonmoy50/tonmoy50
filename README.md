@@ -56,6 +56,17 @@
 - Pytorch
 - Pandas
 
+### ✨ Repository Listing ✨
+
+| Artificial Intelligence | Computing | Software Engineering | Current Projects |
+|-	|-	|- |- |
+| [Machine Learning](https://github.com/bhuiyanmobasshir94/Machine-Learning) | [Data Engineering](https://github.com/bhuiyanmobasshir94/Data-Engineering) | [Problem Solving](https://github.com/bhuiyanmobasshir94/Problem-Solving)  | [Research](https://github.com/bhuiyanmobasshir94/Research) |
+| [Deep Learning](https://github.com/bhuiyanmobasshir94/Deep-Learning) | Big Data | [Software Engineering Best Practices](https://github.com/bhuiyanmobasshir94/Software-Engineering-Best-Practices) | [Higher Study](https://github.com/bhuiyanmobasshir94/Higher-Study) |
+| [Data Science](https://github.com/bhuiyanmobasshir94/Data-Science) | [GIS](https://github.com/bhuiyanmobasshir94/GIS) | [Interview](https://github.com/bhuiyanmobasshir94/Interview) | [Coursera Specializations](https://github.com/bhuiyanmobasshir94/Coursera-Specializations) |
+| [Computer Vision](https://github.com/bhuiyanmobasshir94/Computer-Vision) |   | [Testing](https://github.com/bhuiyanmobasshir94/Testing) | [NUS Artificial Intelligence Training](https://github.com/bhuiyanmobasshir94/NUS-Artificial-Intelligence-Training) |
+| [Edge / IoT](https://github.com/bhuiyanmobasshir94/Edge-IoT) |  | [Cloud DevOps](https://github.com/bhuiyanmobasshir94/Cloud-DevOps) | [Books](https://github.com/bhuiyanmobasshir94/Books) |
+| [NLP / NLU](https://github.com/bhuiyanmobasshir94/Natural-Language-Processing-And-Understanding) | | | |
+
 ### Github Stat's
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=tonmoy50&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoy50&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
