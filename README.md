@@ -58,14 +58,11 @@
 
 ### ✨ Repository Listing ✨
 
-| Artificial Intelligence | Computing | Software Engineering | Current Projects |
+| Artificial Intelligence | Computing | Software Engineering | Misc. |
 |-	|-	|- |- |
-| [Machine Learning](https://github.com/bhuiyanmobasshir94/Machine-Learning) | [Data Engineering](https://github.com/bhuiyanmobasshir94/Data-Engineering) | [Problem Solving](https://github.com/bhuiyanmobasshir94/Problem-Solving)  | [Research](https://github.com/bhuiyanmobasshir94/Research) |
-| [Deep Learning](https://github.com/bhuiyanmobasshir94/Deep-Learning) | Big Data | [Software Engineering Best Practices](https://github.com/bhuiyanmobasshir94/Software-Engineering-Best-Practices) | [Higher Study](https://github.com/bhuiyanmobasshir94/Higher-Study) |
-| [Data Science](https://github.com/bhuiyanmobasshir94/Data-Science) | [GIS](https://github.com/bhuiyanmobasshir94/GIS) | [Interview](https://github.com/bhuiyanmobasshir94/Interview) | [Coursera Specializations](https://github.com/bhuiyanmobasshir94/Coursera-Specializations) |
-| [Computer Vision](https://github.com/bhuiyanmobasshir94/Computer-Vision) |   | [Testing](https://github.com/bhuiyanmobasshir94/Testing) | [NUS Artificial Intelligence Training](https://github.com/bhuiyanmobasshir94/NUS-Artificial-Intelligence-Training) |
-| [Edge / IoT](https://github.com/bhuiyanmobasshir94/Edge-IoT) |  | [Cloud DevOps](https://github.com/bhuiyanmobasshir94/Cloud-DevOps) | [Books](https://github.com/bhuiyanmobasshir94/Books) |
-| [NLP / NLU](https://github.com/bhuiyanmobasshir94/Natural-Language-Processing-And-Understanding) | | | |
+| [Data Science](https://github.com/tonmoy50/Data-Science-For-Beginners) | | [Git](https://github.com/tonmoy50/gitCommands) |
+| [AWS ML Cloud Camp](https://github.com/tonmoy50/AWS-ML-With-Cloud-Camp) |  | [Cloud DevOps](https://github.com/tonmoy50/Cloud-DevOps) | [Ego4d](https://github.com/tonmoy50/ego4d) |
+| | [Coding Problems](https://github.com/tonmoy50/Problem-Solutions) | |
 
 ### Github Stat's
 
