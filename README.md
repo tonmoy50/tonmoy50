@@ -7,7 +7,7 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Add-black?color=14171A&labelColor=37474f&logo=facebook&logoColor=4fc3f7)](https://www.facebook.com/tonmoy50/)
 ![](https://komarev.com/ghpvc/?username=tonmoy50&style=plastic)
 
-### Languages
+### ✨ Languages ✨
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -18,7 +18,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### Technologies
+### ✨ Technologies ✨
 
 <!-- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) -->
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
@@ -31,7 +31,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
-### Projects
+### ✨ Projects ✨
 
 [![](https://img.shields.io/badge/ResnetSTL10-000)](https://github.com/tonmoy50/resnet50withstl10)
 [![](https://img.shields.io/badge/VehicleClassification-000)](https://github.com/tonmoy50/vehicle_classification)
@@ -41,14 +41,14 @@
 [![](https://img.shields.io/badge/HospitalManagement-000)](https://github.com/tonmoy50/Hospital-Management)
 [![](https://img.shields.io/badge/TransportManagement-000)](https://github.com/tonmoy50/transport_management)
 
-### Prgramming Language Expertise
+### ✨ Prgramming Language Expertise ✨
 - Python
 - C/C++
 - Java
 - javascript
 - C#
 
-### ML and Data Analysis Expertise
+### ✨ ML and Data Analysis Expertise ✨
 
 - Tensorflow
 - Keras
