@@ -50,11 +50,11 @@
 
 ### ✨ ML and Data Analysis Expertise ✨
 
+- Pytorch
+- Pytorch3D
 - Tensorflow
 - Keras
 - Scikit-Learn
-- Pytorch
-- Pandas
 
 ### ✨ Repository Listing ✨
 
