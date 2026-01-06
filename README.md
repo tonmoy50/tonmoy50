@@ -52,8 +52,7 @@
 
 - Pytorch
 - Pytorch3D
-- Tensorflow
-- Keras
+- Open3D
 - Scikit-Learn
 
 ### ✨ Repository Listing ✨
