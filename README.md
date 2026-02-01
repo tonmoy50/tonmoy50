@@ -33,6 +33,8 @@
 
 ### ✨ Projects ✨
 
+[![](https://img.shields.io/badge/3DReconstruction-000)](https://github.com/tonmoy50/3d-reconstruction)
+[![](https://img.shields.io/badge/EyeGazeEstimation-000)](https://github.com/tonmoy50/gaze)
 [![](https://img.shields.io/badge/ResnetSTL10-000)](https://github.com/tonmoy50/resnet50withstl10)
 [![](https://img.shields.io/badge/VehicleClassification-000)](https://github.com/tonmoy50/vehicle_classification)
 [![](https://img.shields.io/badge/CovidAssessment-000)](https://github.com/tonmoy50/covid19)
