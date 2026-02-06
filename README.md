@@ -56,6 +56,7 @@
 - Pytorch3D
 - Open3D
 - Scikit-Learn
+- Pandas
 
 ### ✨ Repository Listing ✨
 
