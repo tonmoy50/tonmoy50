@@ -23,7 +23,9 @@
 <!-- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) -->
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![DjangoRest](https://img.shields.io/badge/-DjangoREST-000?&logo=DjangoREST)
+![FASTAPI](https://img.shields.io/badge/-FASTAPI-000?&logo=FASTAPI)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000?&logo=Nodejs)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
