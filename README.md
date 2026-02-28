@@ -45,7 +45,7 @@
 [![](https://img.shields.io/badge/HospitalManagement-000)](https://github.com/tonmoy50/Hospital-Management)
 [![](https://img.shields.io/badge/TransportManagement-000)](https://github.com/tonmoy50/transport_management)
 
-### ✨ Prgramming Language Expertise ✨
+### ✨ Programming Language Expertise ✨
 - Python
 - C/C++
 - Java
