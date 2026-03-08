@@ -17,6 +17,7 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-Postgresql-000?&logo=PostgreSQL)
 
 ### ✨ Technologies ✨
 
