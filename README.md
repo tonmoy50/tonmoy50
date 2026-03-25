@@ -52,6 +52,7 @@
 - Java
 - javascript
 - C#
+- cuda
 
 ### ✨ ML and Data Analysis Expertise ✨
 
