@@ -1,76 +1,252 @@
-### Hi! Welcome To My Github
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4F46E5,100:06B6D4&height=215&section=header&text=Nilambar%20Halder%20Tonmoy&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20-%20ML%20Engineer%20-%20Computer%20Vision%20Researcher&descSize=17&descAlignY=56" alt="Nilambar Halder Tonmoy profile header" />
 
+<div align="center">
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:tonmoyhalder50@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/tonmoy50/)
-[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/tonmoyhalder)
-[![Facebook Follow](https://img.shields.io/badge/%20-Add-black?color=14171A&labelColor=37474f&logo=facebook&logoColor=4fc3f7)](https://www.facebook.com/tonmoy50/)
-![](https://komarev.com/ghpvc/?username=tonmoy50&style=plastic)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=850&lines=Building+ML-powered+software+that+ships;Computer+vision+%2B+backend+%2B+MLOps;Turning+research+prototypes+into+reliable+systems;Researching+gaze%2C+human+attention%2C+and+3D+perception" alt="Animated introduction" />
+</a>
 
-### ✨ Languages ✨
+<br />
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=CSharp)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-Postgresql-000?&logo=PostgreSQL)
+<a href="https://tonmoy50.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/tonmoy50/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://scholar.google.com/citations?user=QHH0vo0AAAAJ&hl=en">
+  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+</a>
+<a href="mailto:tonmoyhalder50@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-### ✨ Technologies ✨
+</div>
 
-<!-- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) -->
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![DjangoRest](https://img.shields.io/badge/-DjangoREST-000?&logo=DjangoREST)
-![FASTAPI](https://img.shields.io/badge/-FASTAPI-000?&logo=FASTAPI)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000?&logo=Nodejs)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![MatLab](https://img.shields.io/badge/-Matlab-000?&logo=MATLAB)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+👋 Developer first. Research informed.
 
-### ✨ Projects ✨
+A software developer and machine-learning engineer who enjoys the full path from data and model experiments to APIs, automation, deployment, and reproducible systems.
 
-[![](https://img.shields.io/badge/3DReconstruction-000)](https://github.com/tonmoy50/3d-reconstruction)
-[![](https://img.shields.io/badge/EyeGazeEstimation-000)](https://github.com/tonmoy50/gaze)
-[![](https://img.shields.io/badge/ResnetSTL10-000)](https://github.com/tonmoy50/resnet50withstl10)
-[![](https://img.shields.io/badge/VehicleClassification-000)](https://github.com/tonmoy50/vehicle_classification)
-[![](https://img.shields.io/badge/CovidAssessment-000)](https://github.com/tonmoy50/covid19)
-[![](https://img.shields.io/badge/FacialExpression-000)](https://github.com/tonmoy50/Face-Expression)
-[![](https://img.shields.io/badge/JATSSClawbot-000)](https://github.com/tonmoy50/jatss_clawbot)
-[![](https://img.shields.io/badge/HospitalManagement-000)](https://github.com/tonmoy50/Hospital-Management)
-[![](https://img.shields.io/badge/TransportManagement-000)](https://github.com/tonmoy50/transport_management)
+I am currently pursuing a Ph.D. in Computer Science at Indiana University Bloomington, where I am currently researching 3D Reconstruction, Perception & human attention in world model. Before starting the Ph.D., I worked as a Software Engineer in Machine Learning across computer vision, NLP, backend services, data pipelines, and MLOps.
 
-### ✨ Programming Language Expertise ✨
-- Python
-- C/C++
-- Java
-- javascript
-- C#
-- cuda
+🧩 tonmoy.dev
 
-### ✨ ML and Data Analysis Expertise ✨
+<table>
+<tr>
+  <td><code>builds</code></td>
+  <td>ML applications · Computer-vision pipelines · 3D reconstruction &amp; generation · APIs and data systems</td>
+</tr>
+<tr>
+  <td><code>stack</code></td>
+  <td>Python · C++ · PyTorch · FastAPI · PostgreSQL · Docker</td>
+</tr>
+<tr>
+  <td><code>research</code></td>
+  <td> 3D Reconstruction · 3D perception · Gaze · Human attention · Robotics</td>
+</tr>
+<tr>
+  <td><code>focus</code></td>
+  <td>Turning promising prototypes into reusable, reliable software</td>
+</tr>
+</table>
 
-- Pytorch
-- Pytorch3D
-- Open3D
-- Scikit-Learn
-- Pandas
+⚡ What I build
 
-### ✨ Repository Listing ✨
+<table>
+<tr>
+<td width="33%" valign="top">
+  <h3>⚙️ Software & APIs</h3>
+  <p>Backend services, REST APIs, automation, databases, and data-processing workflows designed for maintainability.</p>
+</td>
+<td width="33%" valign="top">
+  <h3>🧠 Applied ML & Vision</h3>
+  <p>Training and evaluation pipelines for image, video, NLP, gaze, and multimodal problems—with deployment in mind.</p>
+</td>
+<td width="33%" valign="top">
+  <h3>🔬 Research Engineering</h3>
+  <p>Reproducible experiments, research tooling, model analysis, and the bridge from a paper idea to working code.</p>
+</td>
+</tr>
+</table>
 
-| Artificial Intelligence | Computing | Software Engineering | Misc. |
-|-	|-	|- |- |
-| [Data Science](https://github.com/tonmoy50/Data-Science-For-Beginners) | [Coding Problems](https://github.com/tonmoy50/Problem-Solutions) | [Git](https://github.com/tonmoy50/gitCommands) | [Ego4d](https://github.com/tonmoy50/ego4d) |
-| [AWS ML Cloud Camp](https://github.com/tonmoy50/AWS-ML-With-Cloud-Camp) | [DSA](https://github.com/tonmoy50/DSA) | [Cloud DevOps](https://github.com/tonmoy50/Cloud-DevOps) | [Robotics](https://github.com/tonmoy50/robotics)|
-| [NLP](https://github.com/tonmoy50/natural-language-processing-resources) | | [Data Structure & Algorithm](https://github.com/tonmoy50/DSA) | [Research Formulation](https://github.com/tonmoy50/research-formulation) |
+🚀 Featured builds
 
-### Github Stat's
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/tonmoy50/gaze">👁️ Gaze Detection</a></h3>
+  <p>A PyTorch-based research engineering codebase for gaze estimation and human-attention experiments, using OpenCV, MediaPipe, face alignment, timm, and Transformers.</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/tonmoy50/gaze?style=flat-square&amp;color=4F46E5" alt="Top language" />
+    <img src="https://img.shields.io/github/last-commit/tonmoy50/gaze?style=flat-square&amp;color=06B6D4" alt="Last commit" />
+    <img src="https://img.shields.io/github/repo-size/tonmoy50/gaze?style=flat-square&amp;color=64748B" alt="Repository size" />
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/tonmoy50/3d-reconstruction">🧊 3D Reconstruction &amp; Generation</a></h3>
+  <p>A research-and-development workspace for 3D reconstruction and generation, with experiments in <strong>3D Gaussian Splatting (3DGS)</strong>, <strong>Zero123</strong>, <strong>TRELLIS</strong>, and related 3D vision workflows.</p>
+  <p>
+    <img src="https://img.shields.io/badge/3DGS-Gaussian_Splatting-4F46E5?style=flat-square" alt="3D Gaussian Splatting" />
+    <img src="https://img.shields.io/badge/Zero123-Novel_View_Synthesis-06B6D4?style=flat-square" alt="Zero123" />
+    <img src="https://img.shields.io/badge/TRELLIS-3D_Generation-64748B?style=flat-square" alt="TRELLIS" />
+  </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/tonmoy50/vehicle_classification">🚗 Vehicle Classification</a></h3>
+  <p>SSD MobileNet evaluation and frozen-graph-to-TensorFlow-Lite conversion for deployment on Android, iOS, Raspberry Pi, Jetson Nano, and other edge devices.</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/tonmoy50/vehicle_classification?style=flat-square&amp;color=4F46E5" alt="Top language" />
+    <img src="https://img.shields.io/github/last-commit/tonmoy50/vehicle_classification?style=flat-square&amp;color=06B6D4" alt="Last commit" />
+    <img src="https://img.shields.io/github/repo-size/tonmoy50/vehicle_classification?style=flat-square&amp;color=64748B" alt="Repository size" />
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/tonmoy50/Bangla-Sign-Language-Detection">🤟 Bangla Sign Language Detection</a></h3>
+  <p>A dataset and computer-vision pipeline for frequently used Bengali signs, including preprocessing, model evaluation, and assistive visual/audio output tooling.</p>
+  <p>
+    <img src="https://img.shields.io/github/languages/top/tonmoy50/Bangla-Sign-Language-Detection?style=flat-square&amp;color=4F46E5" alt="Top language" />
+    <img src="https://img.shields.io/github/last-commit/tonmoy50/Bangla-Sign-Language-Detection?style=flat-square&amp;color=06B6D4" alt="Last commit" />
+    <img src="https://img.shields.io/github/repo-size/tonmoy50/Bangla-Sign-Language-Detection?style=flat-square&amp;color=64748B" alt="Repository size" />
+  </p>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+  <h3><a href="https://github.com/tonmoy50?tab=repositories">🧰 Explore More Projects</a></h3>
+  <p>Browse more work across recommendation systems, NLP, cloud and DevOps, algorithms, backend development, robotics, and additional computer-vision experiments.</p>
+  <p>
+    <a href="https://github.com/tonmoy50?tab=repositories">
+      <img src="https://img.shields.io/badge/Explore_All_Repositories-111827?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore all repositories" />
+    </a>
+  </p>
+</td>
+</tr>
+</table>
 
-<img height="137px" src="https://github-readme-stats-theta-nine-91.vercel.app/api?username=tonmoy50&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<!-- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoy50&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
+🛠️ Toolbox
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,java,js,ts,pytorch,tensorflow,opencv,sklearn,django,fastapi,react,nodejs,postgres,docker,linux,git,githubactions,aws,gcp&amp;theme=dark&amp;perline=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,cpp,java,js,ts,pytorch,tensorflow,opencv,sklearn,django,fastapi,react,nodejs,postgres,docker,linux,git,githubactions,aws,gcp&amp;theme=light&amp;perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,pytorch,tensorflow,opencv,sklearn,django,fastapi,react,nodejs,postgres,docker,linux,git,githubactions,aws,gcp&amp;theme=light&amp;perline=10" alt="Programming languages, ML frameworks, backend tools, databases, cloud platforms, and developer tooling" />
+</picture>
+
+<br />
+
+Also working with: CUDA · Hugging Face · MLflow · Airflow · Open3D · PyTorch3D · 3DGS · Zero123 · TRELLIS · Linux/HPC · edge inference
+
+</div>
+
+📈 Live GitHub activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoy50&amp;theme=github_dark&amp;animation=load&amp;duration=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoy50&amp;theme=github&amp;animation=load&amp;duration=3" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoy50&amp;theme=github&amp;animation=load&amp;duration=3" alt="GitHub profile details and contribution history" />
+</picture>
+
+<table>
+<tr>
+<td width="50%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tonmoy50&amp;theme=github_dark&amp;animation=rise&amp;duration=2.5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tonmoy50&amp;theme=github&amp;animation=rise&amp;duration=2.5" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tonmoy50&amp;theme=github&amp;animation=rise&amp;duration=2.5" alt="GitHub statistics" />
+  </picture>
+</td>
+<td width="50%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tonmoy50&amp;theme=github_dark&amp;animation=draw&amp;duration=2.5&amp;exclude=Jupyter%20Notebook" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tonmoy50&amp;theme=github&amp;animation=draw&amp;duration=2.5&amp;exclude=Jupyter%20Notebook" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tonmoy50&amp;theme=github&amp;animation=draw&amp;duration=2.5&amp;exclude=Jupyter%20Notebook" alt="Most used languages by commits, excluding Jupyter Notebook" />
+  </picture>
+</td>
+</tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tonmoy50&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=6366F1&amp;point=06B6D4&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tonmoy50&amp;bg_color=FFFFFF&amp;color=24292F&amp;line=4F46E5&amp;point=06B6D4&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tonmoy50&amp;bg_color=FFFFFF&amp;color=24292F&amp;line=4F46E5&amp;point=06B6D4&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+</picture>
+
+</div>
+
+<details>
+<summary><strong>🔬 Research mode — gaze, human attention, 3D vision, and robotics</strong></summary>
+
+<br />
+
+<table>
+<tr>
+<td width="35%" valign="top">
+  <h3>🎯 Current interests</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Gaze-Estimation-4F46E5?style=flat-square" alt="Gaze estimation" />
+    <img src="https://img.shields.io/badge/Human-Attention-06B6D4?style=flat-square" alt="Human attention" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/3D-Reconstruction-4F46E5?style=flat-square" alt="3D reconstruction" />
+    <img src="https://img.shields.io/badge/3D-Generation-06B6D4?style=flat-square" alt="3D generation" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/World-Models-64748B?style=flat-square" alt="World models" />
+    <img src="https://img.shields.io/badge/Robotics-Perception-64748B?style=flat-square" alt="Robotics perception" />
+  </p>
+</td>
+<td width="65%" valign="top">
+  <h3>🧪 Research direction</h3>
+  <p>At the <strong>IU Computer Vision Lab</strong>, I study 3D reconstruction, visual perception, human attention, and their roles in world models and intelligent systems.</p>
+  <p>I am especially interested in turning research ideas into <strong>reproducible experiments</strong>, <strong>useful developer tools</strong>, and <strong>reliable software systems</strong>.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Research--to--Code-Reproducible-4F46E5?style=flat-square" alt="Research to reproducible code" />
+    <img src="https://img.shields.io/badge/Prototype--to--System-Reliable-06B6D4?style=flat-square" alt="Prototype to reliable system" />
+  </p>
+</td>
+</tr>
+</table>
+
+<h3>📚 Selected publications</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <strong>Deep Learning Based Smart Parking for a Metropolitan Area</strong>
+  <br /><br />
+  <span>2021 IEEE Region 10 Symposium (TENSYMP)</span>
+  <br /><br />
+  <a href="https://ieeexplore.ieee.org/document/9550904">
+    <img src="https://img.shields.io/badge/Read_the_Paper-IEEE-00629B?style=flat-square&amp;logo=ieee" alt="Read the IEEE paper" />
+  </a>
+</td>
+<td width="50%" valign="top">
+  <strong>Generating Human Admissible Language from Bengali Sign Language Using Image Processing</strong>
+  <br /><br />
+  <span>10th International Conference on Advanced Technologies</span>
+  <br /><br />
+  <a href="https://github.com/tonmoy50/Bangla-Sign-Language-Detection">
+    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=flat-square&amp;logo=github" alt="View the project and dataset" />
+  </a>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=QHH0vo0AAAAJ&amp;hl=en">
+    <img src="https://img.shields.io/badge/Explore_More-Google_Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="See more publications on Google Scholar" />
+  </a>
+</p>
+
+</details>
+
+🤝 Let's build something useful
+
+I enjoy collaborating around ML engineering, computer vision, backend systems, research-to-production tooling, open source, and reproducible experimentation. Reach me through email or LinkedIn.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4F46E5,100:06B6D4&height=120&section=footer&reversal=true" alt="Profile footer" />
