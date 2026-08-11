@@ -74,21 +74,21 @@ I am currently pursuing a Ph.D. in Computer Science at Indiana University Bloomi
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3><a href="https://github.com/tonmoy50/3d-reconstruction">🧊 3D Reconstruction &amp; Generation</a></h3>
+<p>A research-and-development workspace for 3D reconstruction and generation, with experiments in <strong>3D Gaussian Splatting (3DGS)</strong>, <strong>Zero123</strong>, <strong>TRELLIS</strong>, and related 3D vision workflows.</p>
+<p>
+  <img src="https://img.shields.io/badge/3DGS-Gaussian_Splatting-4F46E5?style=flat-square" alt="3D Gaussian Splatting" />
+  <img src="https://img.shields.io/badge/Zero123-Novel_View_Synthesis-06B6D4?style=flat-square" alt="Zero123" />
+  <img src="https://img.shields.io/badge/TRELLIS-3D_Generation-64748B?style=flat-square" alt="TRELLIS" />
+</p>
+</td>
+<td width="50%" valign="top">
   <h3><a href="https://github.com/tonmoy50/gaze">👁️ Gaze Detection</a></h3>
   <p>A PyTorch-based research engineering codebase for gaze estimation and human-attention experiments, using OpenCV, MediaPipe, face alignment, timm, and Transformers.</p>
   <p>
     <img src="https://img.shields.io/github/languages/top/tonmoy50/gaze?style=flat-square&amp;color=4F46E5" alt="Top language" />
     <img src="https://img.shields.io/github/last-commit/tonmoy50/gaze?style=flat-square&amp;color=06B6D4" alt="Last commit" />
     <img src="https://img.shields.io/github/repo-size/tonmoy50/gaze?style=flat-square&amp;color=64748B" alt="Repository size" />
-  </p>
-</td>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/tonmoy50/3d-reconstruction">🧊 3D Reconstruction &amp; Generation</a></h3>
-  <p>A research-and-development workspace for 3D reconstruction and generation, with experiments in <strong>3D Gaussian Splatting (3DGS)</strong>, <strong>Zero123</strong>, <strong>TRELLIS</strong>, and related 3D vision workflows.</p>
-  <p>
-    <img src="https://img.shields.io/badge/3DGS-Gaussian_Splatting-4F46E5?style=flat-square" alt="3D Gaussian Splatting" />
-    <img src="https://img.shields.io/badge/Zero123-Novel_View_Synthesis-06B6D4?style=flat-square" alt="Zero123" />
-    <img src="https://img.shields.io/badge/TRELLIS-3D_Generation-64748B?style=flat-square" alt="TRELLIS" />
   </p>
 </td>
 </tr>
