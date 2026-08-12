@@ -74,13 +74,26 @@ I am currently pursuing a Ph.D. in Computer Science at Indiana University Bloomi
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/tonmoy50/3d-reconstruction">🧊 3D Reconstruction &amp; Generation</a></h3>
-<p>A research-and-development workspace for 3D reconstruction and generation, with experiments in <strong>3D Gaussian Splatting (3DGS)</strong>, <strong>Zero123</strong>, <strong>TRELLIS</strong>, and related 3D vision workflows.</p>
-<p>
-  <img src="https://img.shields.io/badge/3DGS-Gaussian_Splatting-4F46E5?style=flat-square" alt="3D Gaussian Splatting" />
-  <img src="https://img.shields.io/badge/Zero123-Novel_View_Synthesis-06B6D4?style=flat-square" alt="Zero123" />
-  <img src="https://img.shields.io/badge/TRELLIS-3D_Generation-64748B?style=flat-square" alt="TRELLIS" />
-</p>
+  <h3>
+    <a href="https://github.com/tonmoy50/3d-reconstruction">
+      🧊 3D Reconstruction &amp; Generation
+    </a>
+  </h3>
+
+  <p>
+    A research-and-development workspace for 3D reconstruction and generation,
+    with experiments in <strong>3D Gaussian Splatting (3DGS)</strong>,
+    <strong>Zero123</strong>, <strong>TRELLIS</strong>,
+    novel-view synthesis, and related 3D workflows.
+  </p>
+
+  <!-- Automatically generated badges appear here -->
+
+  <p>
+    <sub>
+      🔒 Source code is private; selected project metadata is published automatically.
+    </sub>
+  </p>
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/tonmoy50/gaze">👁️ Gaze Detection</a></h3>
