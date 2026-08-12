@@ -83,17 +83,18 @@ I am currently pursuing a Ph.D. in Computer Science at Indiana University Bloomi
   <p>
     A research-and-development workspace for 3D reconstruction and generation,
     with experiments in <strong>3D Gaussian Splatting (3DGS)</strong>,
-    <strong>Zero123</strong>, <strong>TRELLIS</strong>,
-    novel-view synthesis, and related 3D workflows.
+    <strong>Zero123</strong>, <strong>TRELLIS</strong>, novel-view synthesis,
+    and related 3D workflows.
   </p>
-
-  <!-- Automatically generated badges appear here -->
 
   <p>
-    <sub>
-      🔒 Source code is private; selected project metadata is published automatically.
-    </sub>
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftonmoy50%2Ftonmoy50%2Fmaster%2Fassets%2F3d-reconstruction%2Ftop-language.json&amp;style=flat-square&amp;cacheSeconds=3600" alt="Top language" />
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftonmoy50%2Ftonmoy50%2Fmaster%2Fassets%2F3d-reconstruction%2Flast-commit.json&amp;style=flat-square&amp;cacheSeconds=3600" alt="Last commit" />
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftonmoy50%2Ftonmoy50%2Fmaster%2Fassets%2F3d-reconstruction%2Frepo-size.json&amp;style=flat-square&amp;cacheSeconds=3600" alt="Repository size" />
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftonmoy50%2Ftonmoy50%2Fmaster%2Fassets%2F3d-reconstruction%2Fvisibility.json&amp;style=flat-square&amp;cacheSeconds=3600" alt="Private source" />
   </p>
+
+  <p><sub>🔒 Source code is private; selected project metadata is published automatically.</sub></p>
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/tonmoy50/gaze">👁️ Gaze Detection</a></h3>
