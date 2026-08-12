@@ -94,7 +94,7 @@ I am currently pursuing a Ph.D. in Computer Science at Indiana University Bloomi
     <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftonmoy50%2Ftonmoy50%2Fmaster%2Fassets%2F3d-reconstruction%2Fvisibility.json&amp;style=flat-square&amp;cacheSeconds=3600" alt="Private source" />
   </p>
 
-  <p><sub>🔒 Source code is private; selected project metadata is published automatically.</sub></p>
+  <p><sub>🔒 Source code is private</sub></p>
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/tonmoy50/gaze">👁️ Gaze Detection</a></h3>
@@ -193,7 +193,7 @@ Also working with: CUDA · Hugging Face · MLflow · Airflow · Open3D · PyTorc
 </div>
 
 <details>
-<summary><strong>🔬 Research mode — gaze, human attention, 3D vision, and robotics</strong></summary>
+<summary><strong>🔬 Research mode — 3D vision, 3D reconstruction, gaze, human attention, and robotics</strong></summary>
 
 <br />
 
